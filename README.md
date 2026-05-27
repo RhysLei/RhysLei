@@ -75,12 +75,37 @@ I’m building this space into a **resource hub for AI engineers**:
 
 - 📧 Email: `leeeeeeiyoung@gmail.com` (best for CVs & quick intros)
 - 💬 WeChat: `RhysLei` (faster response for China-based)
-- 🔗 LinkedIn: [rhys-lei-90b806380](https://linkedin.com/in/rhys-lei-90b806380)
-- 📅 [Book a 15-min chat (placeholder link – add your Calendly)](https://calendly.com)
+- 📞 Telephone Number: `18379282487` (Call me anytime)
+- 🔗 LinkedIn: [Rhys Lei](https://linkedin.com/in/rhys-lei-90b806380)
 
 ---
 
-## ⚡ One More Thing
+# ⚡ One More Thing
 
-Outside recruiting, I train small RL models for fun and follow the latest inference papers.  
-Ask me about why I think **RL Infra** will be the next big hiring wave 🚀
+## 📡 I’m Following China’s Top AI Teams — Closely
+
+I maintain direct, ongoing conversations with **engineering & research leaders** at the most influential AI companies in China.  
+These are the teams shaping LLM pre-training, RL Infra, inference systems, and next-gen AGI architectures.
+
+**Currently tracking (live roles + team expansions):**
+
+- **ByteDance** (Seed / Flow / Doubao RL Infra)
+- **Alibaba** (Tongyi Lab, PAI Infra)
+- **Tencent** (Hunyuan, Angel RL)
+- **DeepSeek** (training & inference systems)
+- **Moonshot AI** (Kimi – post-training & RL)
+- **Zhipu AI** (GLM series, scaling infra)
+- **StepFun** & other high-profile AGI startups
+
+> *Not just job boards — I know which teams are quietly hiring for RL Infra, which are rebuilding their inference stacks, and where the real budget is going.*
+
+### 🎯 You should talk to me if:
+
+- You want **unfiltered intel** (salaries, team culture, real technical challenges)
+- You're targeting a specific team above and want a warm intro
+- You're a returnee or global engineer considering China opportunities
+
+📬 **Just DM me** on WeChat (`RhysLei`) or LinkedIn with the team name — e.g. *“DeepSeek Infra”*  
+I’ll reply with what I know, no generic JD spam. 
+
+> *I don’t blast lists. I match people to the right desk.*
