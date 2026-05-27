@@ -5,7 +5,7 @@
 Connecting global AI talent with high-impact opportunities across China.
 
 📍 Shanghai, China · 🌏 Global talent welcome  
-📧 leeeeeeiyoung@gmail.com · 💬 WeChat: `RhysLei` · [LinkedIn](https://linkedin.com/in/rhys-lei-90b806380)
+📧 leeeeeeiyoung@gmail.com · 💬 WeChat: `RhysLei` · 📞 Telephone Number: `18379282487` · [LinkedIn](https://linkedin.com/in/rhys-lei-90b806380)
 
 ---
 
